@@ -7,8 +7,8 @@ calcular(10,5)
 
 
 
-function saudacões(exemplo:string):string{
-    return 'Boa noite' + exemplo;
+function saudacões(pedro:string):string{
+    return 'Boa noite' + pedro;
 }
 
 
