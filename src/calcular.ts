@@ -8,7 +8,7 @@ calcular(10,5)
 
 
 function saudacões(pedro:string):string{
-    return `Boa noite ${pedro}`
+    return `olá ${pedro}`
 }
 
 
